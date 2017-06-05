@@ -559,7 +559,7 @@ em {
 .footer-content {
 	width: 60%;
 	margin: 0 auto;
-	text-align: left
+	text-align: center
 }
 
 .home-body {
@@ -1062,6 +1062,10 @@ pre .javascript .function,pre .keyword {
     .archive-container,.archive-footer,.article,.comments,.home .content,.post-footer {
 		width: 80%
 	}
+
+    .footer-content {
+        width: 80%
+    }
 }
 
 @media (max-width:468px) {
@@ -1088,6 +1092,10 @@ pre .javascript .function,pre .keyword {
     .archive-container,.archive-footer,.article,.comments,.home .content,.post-footer {
 		width: 80%
 	}
+
+    .footer-content {
+        width: 80%
+    }
 }
 
 @media (max-width:320px) {
@@ -1110,4 +1118,8 @@ pre .javascript .function,pre .keyword {
 	.archive-container,.archive-footer,.article,.comments,.home .content,.post-footer {
 		width: 80%
 	}
+
+    .footer-content {
+        width: 80%
+    }
 }
